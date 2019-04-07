@@ -1,0 +1,11 @@
+/Users/macbookpro/Desktop/NumberGuesser/bin/Debug/netcoreapp2.2/NumberGuesser.deps.json
+/Users/macbookpro/Desktop/NumberGuesser/bin/Debug/netcoreapp2.2/NumberGuesser.runtimeconfig.json
+/Users/macbookpro/Desktop/NumberGuesser/bin/Debug/netcoreapp2.2/NumberGuesser.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/NumberGuesser/bin/Debug/netcoreapp2.2/NumberGuesser.dll
+/Users/macbookpro/Desktop/NumberGuesser/bin/Debug/netcoreapp2.2/NumberGuesser.pdb
+/Users/macbookpro/Desktop/NumberGuesser/obj/Debug/netcoreapp2.2/NumberGuesser.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/NumberGuesser/obj/Debug/netcoreapp2.2/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/NumberGuesser/obj/Debug/netcoreapp2.2/NumberGuesser.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/NumberGuesser/obj/Debug/netcoreapp2.2/NumberGuesser.AssemblyInfo.cs
+/Users/macbookpro/Desktop/NumberGuesser/obj/Debug/netcoreapp2.2/NumberGuesser.dll
+/Users/macbookpro/Desktop/NumberGuesser/obj/Debug/netcoreapp2.2/NumberGuesser.pdb
